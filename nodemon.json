@@ -1,7 +1,0 @@
-{
-  "env": {
-    "clientID": "63028779392-rqfo0m8a89mn0onsdr8he0bnr89arilu.apps.googleusercontent.com",
-    "clientSecret": "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",
-    "callbackURL": "http://localhost:8000/auth/google/callback"
-  }
-}
